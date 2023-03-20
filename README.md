@@ -3,7 +3,7 @@ Referenced from Spring 2022  Assignment 2 instructions
 
 ## Installation instructions for CSUG
 > - Log on to the cycle machines on the csug network (ssh -L <username> cycle1.csug.rochester.edu)
-> - Download the file : `wget https://github.com/shaojiama/csc263_sp23_A2/raw/main/assignment_2.tar.gz`
+> - Download the file : `wget https://github.com/shaojiama/csc263_sp23_A2/raw/main/a2.tar.gz`
 > - Unzip the file : `tar -xzvf a2.tar.gz`
 > - `cd a2_xapian`
 > - There is a sample file `a2.cpp`, you should use that as the starter code
@@ -17,4 +17,4 @@ To compile your project
   
 ## Submission
 > - You only need to submit the `a2.cpp` file
-> - And the required pltos : https://www.cs.rochester.edu/u/fnargesi/courses/263/a2/handout/a2.html
+> - And the required Plots
